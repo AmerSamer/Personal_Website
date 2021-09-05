@@ -1,9 +1,57 @@
-#top .navbar-nav{
-    /* width: 100%;
+#navbar .logo{
     float: none;
-    text-align: center; */
+    margin: 0px 42.5%;
+    position: none;
+    /* text-align: center; */
+    display: none;
 }
-#top ul li{
-    /* float: none;  
-    width: 100%; */
+
+#navbar ul,#navbar ul li{
+    float: none;  
+    /* position: static; */
+    text-align: center;
+    display: none;
+}
+
+#navbar ul li a{
+    padding: 5px;
+    border-bottom: #444 dotted 1px;
+    /* position: static; */
+    /* width: 100%; */
+}
+#top .page-content{
+    /* float: none; */
+       /* width: 100%; */
+   }
+#top .page-content .profile-pic{
+    float: none;
+    text-align: center;
+    /* margin: 20% auto; */
+    /* float: none; */
+    width: 40%;
+    height: 200px;
+}
+#top .page-content .title{
+    float: none;
+    width: 100%;
+}
+#top .page-content .category{
+    float: none;
+    width: 100%;
+}
+#top .page-content .hire-me  {
+    float: none;
+    width: 100%;
+    /* margin: 50% auto; */
+}
+#top .page-content .download-cv  {
+    float: none;
+    width: 100%;
+    margin: 32%;
+}
+#top .button-container{
+    width: 100%;
+    float: none;
+    text-align: center;
+    margin: 2% 28%;
 }

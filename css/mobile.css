@@ -56,7 +56,29 @@
     text-align: center;
     margin: 6% 25%;
 }
-/* page 4 */
+/**************************page 2 *************************************/
+#top .page-2{
+    /* width: 100%; */
+    /* height: 100%; */
+    /* background: #fff; */
+}
+#top .page-2 .container .grid1 .about {
+    width: 145%;
+    /* height: ; */
+    margin: 0%;
+}
+#top .page-2 .container .grid1 .info {
+    width: 144%;
+    /* height: ; */
+    margin: 1.5%;
+}
+/************************************* page 3 *********************************/
+#top .page-3 .container .grid2 .about {
+    width: 100%;
+    /* height: ; */
+    margin: 0%;
+}
+/*************************************** page 4 ******************************************/
 #top .page-4{
     width: 100%;
     height: 2700px;
@@ -90,5 +112,20 @@
 #top .page-5{
     height: 550px;
     width: 100%;
-    overflow: hidden;
+    /* overflow: hidden; */
+}
+#top .page-5 .container {
+    /* float: none;
+    width: 100%;
+    
+    min-height: 100%;
+   
+    padding: 20px; */
+ 
+  }
+#top .page-5 .map iframe{
+    /* float: none;
+    width: 100%;
+    min-height: 50%; */
+    /* z-index: -1; */
 }

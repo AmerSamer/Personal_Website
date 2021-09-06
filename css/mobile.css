@@ -7,7 +7,7 @@
 }
 
 #navbar ul,#navbar ul li{
-    float: right;  
+    float: left;  
     /* width: auto; */
     /* position: static; */
     text-align: right;

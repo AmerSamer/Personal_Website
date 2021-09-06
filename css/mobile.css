@@ -1,23 +1,26 @@
 #navbar .logo{
     float: left;
-    margin: 1% 1%;
-    position: none;
+    margin: 0.5% 1%;
+    /* position: none; */
     text-align: left;
     /* display: none; */
 }
 
 #navbar ul,#navbar ul li{
     float: right;  
+    /* width: auto; */
     /* position: static; */
     text-align: right;
     /* display: none; */
-    margin: 0%;
+    margin: 0% auto;
 }
 
 #navbar ul li a{
-    padding: 5px;
-    border-bottom: #444 dotted 1px;
+    padding: 3.5px;
+    float: right; 
+    /* border-bottom: #444 dotted 1px; */
     /* position: static; */
+    text-align: right;
     /* width: 100%; */
 }
 #top .page-content{

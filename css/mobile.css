@@ -80,15 +80,27 @@
 }
 /*************************************** page 4 ******************************************/
 #top .page-4{
-    width: 100%;
+    width: 95%;
     height: 2700px;
     background: #FFFFFF;
+}
+#top .page-4 h2{
+    width: 95%;
+    /* height: 475px; */
+    margin: 13.5% 8%;
+    
+}
+#top .page-4 .education{
+    width: 95%;
+    /* height: 475px; */
+    margin: 2% 7%;
 }
 #top .page-4 .container .grid4 {
     display: grid;
     grid-template-columns: 1fr;
     grid-gap: 1rem;
     width: 90%;
+    margin: -10% auto;
 }
 #top .page-4 .container .grid5 {
     display: grid;

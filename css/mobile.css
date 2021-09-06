@@ -120,24 +120,11 @@
     grid-gap: 1rem;
     width: 90%;
 }
-
+/********************************** page 5 ******************************************/
 #top .page-5{
-    height: 550px;
-    width: 100%;
-    /* overflow: hidden; */
-}
-#top .page-5 .container {
-    /* float: none;
-    width: 100%;
     
-    min-height: 100%;
-   
-    padding: 20px; */
- 
-  }
-#top .page-5 .map iframe{
-    /* float: none;
     width: 100%;
-    min-height: 50%; */
-    /* z-index: -1; */
+    /* height: 55px; */
+    overflow: hidden;
 }
+

@@ -938,9 +938,9 @@ html,body{
     
     /* border: rgb(175, 175, 175) 3px solid; */
   }
-  #top .page-5 p {
-      width: 250px;
-      height: 350px;
+  #top .page-5 .contact-info {
+    width: 35%;
+    height: 350px;
     margin: -385px 350px;
     text-align: left;
     font-weight: 600;

@@ -1,16 +1,17 @@
 #navbar .logo{
-    float: none;
-    margin: 0px 42.5%;
+    float: left;
+    margin: 1% 1%;
     position: none;
-    /* text-align: center; */
-    display: none;
+    text-align: left;
+    /* display: none; */
 }
 
 #navbar ul,#navbar ul li{
-    float: none;  
+    float: right;  
     /* position: static; */
-    text-align: center;
-    display: none;
+    text-align: right;
+    /* display: none; */
+    margin: 0%;
 }
 
 #navbar ul li a{

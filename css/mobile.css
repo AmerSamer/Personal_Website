@@ -8,16 +8,17 @@
 
 #navbar ul,#navbar ul li{
     float: left;  
+    /* padding-top: 1px; */
     /* width: auto; */
     /* position: static; */
     text-align: left;
     /* display: none; */
     /* border: #6d1616 solid 2px; */
 
-    margin: 0% auto;
+    /* margin: 0%; */
 }
 #navbar ul li a{
-    padding: 3.5px;
+    padding: 0.1px;
     float: left; 
     /* position: static; */
     text-align: left;

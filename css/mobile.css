@@ -7,11 +7,11 @@
 }
 
 #navbar ul,#navbar ul li{
-    float: left;  
+    float: inline-end;  
     padding-left: 0px;
     /* width: auto; */
     /* position: static; */
-    text-align: left;
+    text-align: center;
     /* display: none; */
     /* border: #6d1616 solid 2px; */
 

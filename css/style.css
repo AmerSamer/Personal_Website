@@ -640,8 +640,64 @@ html,body{
     /* width: 50%; */
     /* height: 350px; */
 }
+/************************************************Page 3.5 ***********************************************************/
+#top .page-3-5 .portfolio{
+    /* background: url('../images/contacta.jpg') no-repeat center center/cover; */
+     width: 30%;
+    /*height: 10rem; */
+    margin: 10% auto;
+    text-align: center;
+    font-size: 30px;
+    border: #04AA6D 2px solid;
+    }
 
-/************************************* Page 4 **************************************/
+#top .page-3-5 .portfolio-1{
+    background: url('../images/apple.JPG') no-repeat center center/cover;
+    width: 30%;
+    height: 10rem;
+    margin: 1% auto;
+}
+#top .page-3-5 .portfolio-2{
+    background: url('../images/tesla.JPG') no-repeat center center/cover;
+    width: 30%;
+    height: 10rem;
+    margin: 1% auto;
+}
+#top .page-3-5 .portfolio-3{
+    background: url('../images/coming-soon.jpg') no-repeat center center/cover;
+    width: 30%;
+    height: 10rem;
+    margin: 1% auto;
+}
+
+#top .page-3-5 .portfolio-1:hover{
+    background: url('../images/apple-hover.jpg') no-repeat center center/cover;
+    width: 35%;
+    height: 12rem;
+    margin: 1% auto;
+    opacity: 0.7;
+    /* content: normal */
+
+}
+#top .page-3-5 .portfolio-2:hover{
+    background: url('../images/tesla-hover.jpg') no-repeat center center/cover;
+    width: 35%;
+    height: 12rem;
+    margin: 1% auto;
+    opacity: 0.7;
+
+}
+#top .page-3-5 .portfolio-3:hover{
+    /* background: url('../images/contacta.jpg') no-repeat center center/cover; */
+    width: 35%;
+    height: 12rem;
+    margin: 1% auto;
+    opacity: 0.9;
+
+}
+
+
+/************************************************Page 4 ***********************************************************/
 #top .page-4{
     width: 100%;
     height: 1300px;

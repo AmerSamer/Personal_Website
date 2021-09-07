@@ -1,6 +1,6 @@
 #navbar .logo{
     float: left;
-    margin: 0.75% 1%;
+    margin: 0.0% 0%;
     /* position: none; */
     text-align: left;
     /* display: none; */
@@ -10,16 +10,17 @@
     float: left;  
     /* width: auto; */
     /* position: static; */
-    text-align: right;
+    text-align: left;
     /* display: none; */
+    /* border: #6d1616 solid 2px; */
+
     margin: 0% auto;
 }
 #navbar ul li a{
     padding: 3.5px;
-    float: right; 
-    /* border-bottom: #444 dotted 1px; */
+    float: left; 
     /* position: static; */
-    text-align: right;
+    text-align: left;
     /* width: 100%; */
 }
 #top .page-content{

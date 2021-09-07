@@ -648,7 +648,7 @@ html,body{
     margin: 10% auto;
     text-align: center;
     font-size: 30px;
-    border: #04AA6D 2px solid;
+    /* border: #04AA6D 2px solid; */
     }
 
 #top .page-3-5 .portfolio-1{
